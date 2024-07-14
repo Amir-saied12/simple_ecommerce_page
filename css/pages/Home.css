@@ -1,0 +1,22 @@
+#navbarBrand{
+    display: none;
+    list-style-type: none;
+}
+.topCart{
+    position: absolute;
+    width: 180px;
+    top: 48px;
+    right: -52px;
+    background-color: #e1e1e18f;
+    color: black;
+    padding: 16px;
+    text-align: center;
+    display: none;
+}
+.topCart button{
+    background-color: #00eb16;
+    color: black;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+}

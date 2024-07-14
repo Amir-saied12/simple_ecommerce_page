@@ -1,0 +1,15 @@
+/*vendor*/
+@import url(./vendor/bootstrap.min.css);
+
+/*base*/
+
+/*component*/
+
+/*layout*/
+
+/*responsive*/
+
+/*pages*/
+@import url(./pages/Home.css);
+@import url(./pages/cart.css);
+/*                                  */
